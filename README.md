@@ -1,6 +1,6 @@
 # 📌 Request Management System
 
-During our internship, we developed the **Request Management System**, an application crafted to streamline and manage organizational requests. The goal was to create a centralized platform that enhances workflow and improves communication across departments.
+During my internship, I developed the **Request Management System**, an application crafted to streamline and manage organizational requests. The goal was to create a centralized platform that enhances workflow and improves communication across departments.
 
 The system begins with a **secure login screen**, ensuring only authorized users can access the dashboard. Once logged in, users can:
 - ✍️ Create new requests
