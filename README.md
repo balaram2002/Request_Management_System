@@ -62,3 +62,11 @@ This platform greatly enhances operational efficiency by allowing transparent an
 
 
 ---
+
+![1731917583423](https://github.com/user-attachments/assets/9a228407-de4e-4cf4-aa5b-d5762209f033)
+
+---
+
+![1731917583428](https://github.com/user-attachments/assets/f1a62704-6277-45c4-9726-6b9853a62554)
+
+
